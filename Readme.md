@@ -13,3 +13,5 @@ A projekt rendkívül egyszerű. 5 máspdpercenként mintát veszünk a DHT11 sz
 Ezzel egyidőben a pool.ntp.org kiszolgálóról beállítjuk a pontos időt, amit úgyszintén kiíratunk a kijelzőre.
 
 A szenzor adatait felküldjük a felhőbe is, (Arduino IoT Cloud) Ahol a megfelelő változók létrehozása után egyedi dashboardon megjelenítjük a mért adatokat, ezekből chartot kreálunk, valamint a kijelző fényerejét is állíthatjuk a csúszka segítségével.
+
+![alt text](IMG_4441.jpg)
