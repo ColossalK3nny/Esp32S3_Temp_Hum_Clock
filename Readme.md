@@ -2,7 +2,7 @@
 
 ### Alkatrészek
 
-1. Arduino Uno R3 Wifi
+1. Arduino Uno R4 Wifi
 2. DHT11 Hömérséklet és pára szenzor
 3. GMT 130 240x240 TFT kijelző
 4. Breadboard
