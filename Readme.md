@@ -1,8 +1,8 @@
 # IoT beadandóra készített projekt
 
 ### Tagok
-Fekete Miklós
-Varga Péter
+Fekete Miklós,
+Varga Péter,
 Erős József
 
 ### Alkatrészek
