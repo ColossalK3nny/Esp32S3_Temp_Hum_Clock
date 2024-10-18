@@ -15,3 +15,15 @@ Ezzel egyidőben a pool.ntp.org kiszolgálóról beállítjuk a pontos időt, am
 A szenzor adatait felküldjük a felhőbe is, (Arduino IoT Cloud) Ahol a megfelelő változók létrehozása után egyedi dashboardon megjelenítjük a mért adatokat, ezekből chartot kreálunk, valamint a kijelző fényerejét is állíthatjuk a csúszka segítségével.
 
 ![alt text](IMG_4441.jpg)
+
+![alt text](IMG_4439.jpg)
+
+![alt text](IMG_4440.jpg)
+
+![alt text](IMG_4442.jpg)
+
+![alt text](IMG_4373.jpg)
+
+![alt text](IMG_4374.jpg)
+
+![alt text](IMG_4375.jpg)
