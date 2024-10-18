@@ -1,5 +1,10 @@
 # IoT beadandóra készített projekt
 
+### Tagok
+Fekete Miklós
+Varga Péter
+Erős József
+
 ### Alkatrészek
 
 1. Arduino Uno R4 Wifi
