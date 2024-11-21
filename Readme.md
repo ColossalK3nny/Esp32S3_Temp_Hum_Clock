@@ -32,3 +32,5 @@ A szenzor adatait felküldjük a felhőbe is, (Arduino IoT Cloud) Ahol a megfele
 ![alt text](IMG_4374.PNG)
 
 ![alt text](IMG_4375.PNG)
+
+![alt text](Wiring_Diagram.png)
